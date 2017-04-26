@@ -7,7 +7,7 @@ This repository is supplemental material for the blog post [Debugging in Node.js
 3. Change to the directory where the repository was cloned (`nodejs-debuggin`).
 4. To run the `console-log.js` code use `node console-log.js`
 5. To run the `built-in.js` code with the built-in Node.js debugger use `node debug built-in.js`
-6. To run the `built-in.js` code with the built-in Node.js inspector use `node --inspector --debug-brk built-in.js`
+6. To run the `built-in.js` code with the built-in Node.js inspector use `node --inspect --debug-brk built-in.js`
 
 You can run the following commands in your terminal to get started as well:
 ```bash
